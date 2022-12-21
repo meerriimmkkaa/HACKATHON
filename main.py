@@ -64,3 +64,18 @@ main()
 # git branch -M main
 # git remote add origin git@github.com:meerriimmkkaa/HACKATHON.git
 # git push -u origin main
+
+
+
+
+
+
+
+
+# git init
+# git status
+# git add .
+# git commit -m ' deh'
+# git remote add origin @
+# git push origin master
+
