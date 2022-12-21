@@ -47,7 +47,7 @@ def write_csv(data):
         write.writerow(data)
 
 def main():
-    for i in range(1, 1420):
+    for i in range(1, 20):
         BASE_URL = 'https://www.mashina.kg/search/all/'
         html = get_html(BASE_URL)
         soup = get_soup(html)
